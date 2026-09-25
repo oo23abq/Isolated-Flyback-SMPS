@@ -20,8 +20,8 @@ A breakdown of my first independent PCB project, which was the design of a DC-DC
 ├── ltspice/                                    # Analogue Simulation 
 │   └── waveform.png                            # LTspice Transient Simulation 
 ├── testing/                                    # Lab Testing
-│   ├── oscilloscopeinput.png                   # Scope capture of primary/input side
-│   ├── oscilloscopeoutput.png                  # Scope capture of isolated output
+│   ├── oscilloscopeinput.png                   # Input Voltage (P-Coil)
+│   ├── oscilloscopeoutput.png                  # Output Voltage (S-Coil)
 │   └── testsetup.png                           # Bench Test Setup 
 ├── LICENSE                                     # License file
 └── README.md                                   # Project documentation and summary
